@@ -19,5 +19,5 @@ Welcome to my GitHub portfolio! Here are some of my key projects:
 - Tools: Git, GitHub, IntelliJ, MySQL Workbench, Spring Boot, Laravel  
 - Soft Skills: Teamwork, Problem-Solving, Communication  
 
-📫 Connect with me: [LinkedIn](www.linkedin.com/in/javeria-khan-18105612a)
+📫 Connect with me: [https://www.linkedin.com/in/javeria-khan-18105612a/]
 
