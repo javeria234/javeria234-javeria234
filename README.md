@@ -3,7 +3,8 @@
 Welcome to my GitHub portfolio! Here are some of my key projects:
 
 ## 🌟 Mthree Academy Projects
-- [Java Practice](https://github.com/theacademy/java-practice-javeria234)  
+- [Java Practice](https://github.com/theacademy/java-practice-javeria234)
+- [Pokemart](https://github.com/javeria234/Mthree-final-project-team-rocket) 
 - [Flooring Mastery](https://github.com/theacademy/flooring-mastery-project-javeria234)  
 - [Fullstack Web Assignment](https://github.com/theacademy/java-fullstack-web-assignment-javeria234)  
 - [SQL School Database](https://github.com/theacademy/sql-school-db-javeria234)  
