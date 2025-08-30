@@ -3,14 +3,10 @@
 Welcome to my GitHub portfolio! Here are some of my key projects:
 
 ## 🌟 Mthree Academy Projects
-- [Java Practice](https://github.com/theacademy/java-practice-javeria234)
 - [Pokemart](https://github.com/javeria234/Mthree-final-project-team-rocket) 
-- [Flooring Mastery](https://github.com/theacademy/flooring-mastery-project-javeria234)  
-- [Fullstack Web Assignment](https://github.com/theacademy/java-fullstack-web-assignment-javeria234)  
-- [SQL School Database](https://github.com/theacademy/sql-school-db-javeria234)  
-- [Datetime Project](https://github.com/theacademy/datetime-javeria234)  
-- [Factorial Calculator](https://github.com/theacademy/factorial-javeria234)  
-- [Salary Calculator](https://github.com/theacademy/salary-calculator-practice-javeria234)  
+- [Flooring Mastery](https://github.com/javeria234/javeria234-FlooringMastery)  
+- [Fullstack Web Assignment](https://github.com/javeria234/java-fullstack-web-javeria234)  
+- [SQL School Database](https://github.com/javeria234/sql-school-db-javeria234)  
 
 ## 🎓 University Projects
 - [Social Networking Platform](https://github.com/javeria234/Social-Networking-Platform-Website)   
